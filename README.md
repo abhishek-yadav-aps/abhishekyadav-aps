@@ -2,24 +2,24 @@
 
 ### HEY!! I M ABHISHEK 
    <a href="https://www.linkedin.com/in/abhishek-yadav-aps/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="35px" height="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkdeIN" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/abhishek_aps?hr_r=1/">
-  <img align="left" alt="Abhishek's HackerRank" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
+  <img align="left" alt="Abhishek's HackerRank" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
 </a>
 <a href="https://www.codechef.com/users/abhi_tom/">
-  <img align="left" alt="Abhishek's CodeChef" width="35px" height="35px" src="https://miro.medium.com/max/416/1*1W0-bbmt4iiEpp_pPrS0VQ.png" />
+  <img align="left" alt="Abhishek's CodeChef" width="30px" height="30px" src="https://miro.medium.com/max/416/1*1W0-bbmt4iiEpp_pPrS0VQ.png" />
 </a>
 <a href="https://codeforces.com/profile/abhishek_aps/">
-  <img align="left" alt="Abhishek's Codeforces" width="35px" height="35px" src="https://lh3.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=s180-rw" />
+  <img align="left" alt="Abhishek's Codeforces" width="30px" height="30px" src="https://lh3.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=s180-rw" />
 </a>
 <a href="https://drive.google.com/file/d/11MGbVFM70YhIkDSKPrWg6VhSyMjL3VdK/view?usp=sharing">
-  <img align="left" alt="Abhishek's Resume" width="35px" height="35px" src="https://www.iconfinder.com/data/icons/business-management-and-teamwork-filled-color/300/163251747Untitled-3-512.png" />
+  <img align="left" alt="Abhishek's Resume" width="30px" height="30px" src="https://www.iconfinder.com/data/icons/business-management-and-teamwork-filled-color/300/163251747Untitled-3-512.png" />
 </a>
 </br>
+</br>
 
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/abhishekyadav-aps) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=abhishekyadav-aps.visitor-badge)](https://github.com/abhishekyadav-aps) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/abhishekyadav-aps)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/abhishekyadav-aps) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=abhishekyadav-aps.visitor-badge)](https://github.com/abhishekyadav-aps) [![Open Source Love](https://img.shields.io/github/followers/abhishekyadav-aps?style=social)](https://github.com/abhishekyadav-aps?tab=followers)
 
 - 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿
 - Competitive Coder
@@ -28,10 +28,12 @@
 - Trying hands on Data science
 - Looking for Opportunities
 
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
-|-------------|-------------------|---|---|
-| [**Scribbl**](https://github.com/The-Lazy-People/scribbl) | [![GitHub issues](https://img.shields.io/github/issues/The-Lazy-People/scribbl?color=green&logo=github&style=flat)](https://github.com/The-Lazy-People/scribbl/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/The-Lazy-People/scribbl?style=flat&logo=github)](https://github.com/The-Lazy-People/scribbl/pulls)  | [![GitHub PRs](https://img.shields.io/github/commit-activity/y/The-Lazy-People/scribbl?style=flat&color=critical&logo=github)](https://github.com/The-Lazy-People/scribbl/commits/master)  |
-| [**Facial Landmarking for playing games**](https://github.com/abhishekyadav-aps/Facial-Landmarking) | [![GitHub issues](https://img.shields.io/github/issues/abhishekyadav-aps/Facial-Landmarking?color=green&logo=github&style=flat)](https://github.com/abhishekyadav-aps/Facial-Landmarking/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhishekyadav-aps/Facial-Landmarking?style=flat&logo=github)](https://github.com/abhishekyadav-aps/Facial-Landmarking/pulls)  | [![GitHub PRs](https://img.shields.io/github/commit-activity/y/abhishekyadav-aps/Facial-Landmarking?style=flat&color=critical&logo=github)](https://github.com/abhishekyadav-aps/Facial-Landmarking/commits/master)   |
+## Current Projects
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Commits :fire:  | Stars :star: |
+|-------------|-------------------|---|---|---|
+| [**Scribbl**](https://github.com/The-Lazy-People/scribbl) | [![GitHub issues](https://img.shields.io/github/issues/The-Lazy-People/scribbl?color=green&logo=github&style=flat)](https://github.com/The-Lazy-People/scribbl/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/The-Lazy-People/scribbl?style=flat&logo=github)](https://github.com/The-Lazy-People/scribbl/pulls)  | [![GitHub Commits](https://img.shields.io/github/commit-activity/y/The-Lazy-People/scribbl?style=flat&color=critical&logo=github)](https://github.com/The-Lazy-People/scribbl/commits/master)  |[![GitHub Stars](https://img.shields.io/github/stars/The-Lazy-people/scribbl?style=social)](https://github.com/The-Lazy-People/scribbl/stargazers) |
+| [**Facial Landmarking for playing games**](https://github.com/abhishekyadav-aps/Facial-Landmarking) | [![GitHub issues](https://img.shields.io/github/issues/abhishekyadav-aps/Facial-Landmarking?color=green&logo=github&style=flat)](https://github.com/abhishekyadav-aps/Facial-Landmarking/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/abhishekyadav-aps/Facial-Landmarking?style=flat&logo=github)](https://github.com/abhishekyadav-aps/Facial-Landmarking/pulls)  | [![GitHub PRs](https://img.shields.io/github/commit-activity/y/abhishekyadav-aps/Facial-Landmarking?style=flat&color=critical&logo=github)](https://github.com/abhishekyadav-aps/Facial-Landmarking/commits/master)   |[![GitHub Stars](https://img.shields.io/github/stars/abhishekyadav-aps/Facial-Landmarking?style=social)](https://github.com/abhishekyadav-aps/Facial-Landmarking/stargazers) |
 
 ## I WORK ON 
 <table>
