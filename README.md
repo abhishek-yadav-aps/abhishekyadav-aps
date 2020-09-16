@@ -13,7 +13,7 @@
 <a href="https://codeforces.com/profile/abhishek_aps/">
   <img align="left" alt="Abhishek's Codeforces" width="30px" height="30px" src="https://lh3.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=s180-rw" />
 </a>
-<a href="https://drive.google.com/file/d/11MGbVFM70YhIkDSKPrWg6VhSyMjL3VdK/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1xRn_ZQ73IplD6uJ9yGl-RAdNkxzGe60L/view?usp=sharing">
   <img align="left" alt="Abhishek's Resume" width="30px" height="30px" src="https://www.iconfinder.com/data/icons/business-management-and-teamwork-filled-color/300/163251747Untitled-3-512.png" />
 </a>
 </br>
